@@ -1,0 +1,6 @@
+numpy
+pyaudio
+tk
+pystray
+Pillow
+pywin32
