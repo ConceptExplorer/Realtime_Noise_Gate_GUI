@@ -2,6 +2,8 @@
 
 **Description**: A Real-Time Noise Gate GUI that filters out popping sounds when Realtek audio is idle on Windows 11.
 
+![Screenshot](assets/screenshot.png)
+
 ## Features
 - Real-time processing to eliminate audio pops
 - User-friendly GUI with toggle options
