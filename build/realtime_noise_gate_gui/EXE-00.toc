@@ -1,8 +1,8 @@
 ('C:\\Users\\MindEye\\Documents\\Code\\Python_code\\Realtime_Noise_Gate\\dist\\realtime_noise_gate_gui.exe',
- True,
  False,
  False,
- 'C:\\Users\\MindEye\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ False,
+ 'C:\\Users\\MindEye\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
  None,
  False,
  False,
@@ -4072,9 +4072,9 @@
  [],
  False,
  False,
- 1741684163,
- [('run.exe',
-   'C:\\Users\\MindEye\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+ 1741685448,
+ [('runw.exe',
+   'C:\\Users\\MindEye\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
  'C:\\Program '
  'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2544.0_x64__qbz5n2kfra8p0\\python312.dll')
